@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artopu&label=Profile%20views&color=0e75b6&style=flat" alt="artopu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artopu" alt="artopu" /></a> </p>
-
 - 🔭 I’m currently working on **an E-Commerce MERN stack project**
 
 - 🌱 I’m currently learning **MERN, Flutter, Dart**
