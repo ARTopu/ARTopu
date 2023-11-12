@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atiqur-rahman-b38b621b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiqur-rahman-b38b621b1" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/atiqur-rahman-b38b621b1](https://www.linkedin.com/in/atiqur-rahman-b38b621b1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiqur-rahman-b38b621b1" height="30" width="40" /></a>
 <a href="https://fb.com/topu.rahman.5623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="topu.rahman.5623" height="30" width="40" /></a>
 <a href="https://instagram.com/atiqur_rahman_topu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atiqur_rahman_topu" height="30" width="40" /></a>
 </p>
