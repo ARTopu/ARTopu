@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artopu&label=Profile%20views&color=0e75b6&style=flat" alt="artopu" /> </p>
 
-- 🔭 I’m currently working on **an E-Commerce MERN stack project**
+- 🔭 I’m currently working on **a Full Stack ASP.NET Core Project**
 
-- 🌱 I’m currently learning **MERN, Flutter, Dart**
+- 🌱 I’m currently learning **ASP.NET Core, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://atiqur-rahman-portfolio.vercel.app/](https://atiqur-rahman-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, NodeJS**
+- 💬 Ask me about **React, NodeJS, ASP.NET Core**
 
 - 📫 How to reach me **atiqurrahman2312002@gmail.com**
 
