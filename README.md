@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **a Full Stack ASP.NET Core Project**
 
-- 🌱 I’m currently learning **ASP.NET Core, MERN Stack**
+- 🌱 I’m currently learning **ASP.NET Core, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://atiqur-rahman-portfolio.vercel.app/](https://atiqur-rahman-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, NodeJS, ASP.NET Core**
+- 💬 Ask me about **React, ASP.NET Core**
 
 - 📫 How to reach me **atiqurrahman2312002@gmail.com**
 
